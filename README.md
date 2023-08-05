@@ -23,3 +23,7 @@ Instructions: The GUI contains an instruction section to help new players unders
 Replayability: The game's puzzle generation algorithm, coupled with the reset feature, makes the game highly replayable, offering over a thousand new games without repeating the same puzzle.
 
 
+
+
+
+![Medium Screenshot](https://github.com/JadAoun1/PygameSudoku/assets/103859749/e467dbda-42d4-415e-8c14-b30796cbe646)

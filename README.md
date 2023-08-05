@@ -18,7 +18,7 @@ Real-time Game Timer: The gameplay includes a real-time timer that tracks the du
 
 Mistake Counter: A mistake counter is included to provide players with instant feedback on their performance, thus assisting them in improving their gameplay.
 
-Instructions: The GUI contains an instruction section to help new players understand the game rules and controls, ensuring the game is accessible to everyone.
+Instructions: The GUI contains an instruction section to help new players understand the game rules and controls, ensuring the game is accessible.
 
 
 

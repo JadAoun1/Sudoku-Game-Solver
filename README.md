@@ -20,6 +20,6 @@ Mistake Counter: A mistake counter is included to provide players with instant f
 
 Instructions: The GUI contains an instruction section to help new players understand the game rules and controls, ensuring the game is accessible to everyone.
 
-Replayability: The game's puzzle generation algorithm, coupled with the reset feature, makes the game highly replayable, offering over a thousand new games without repeating the same puzzle.
+
 
 ![Medium Screenshot](https://github.com/JadAoun1/PygameSudoku/assets/103859749/52e10bb5-0365-411c-86d9-863c71c8c583)

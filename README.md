@@ -2,6 +2,10 @@
 
 This project is a fully-interactive Sudoku game developed in Python, leveraging the Pygame library for its GUI. The game is designed to provide an enjoyable and challenging experience for Sudoku enthusiasts of all levels, from beginners to advanced players.
 
+How to Run:
+To run the game, simply download or clone the repository and execute the main Python script using a Python interpreter. Note that the Pygame library is required and can be installed using pip.
+
+
 #Features:
 
 Interactive GUI: The game features an intuitive and user-friendly graphical interface, designed using the Pygame library. The GUI incorporates a 9x9 grid-based Sudoku board and instructional text for players.
@@ -17,3 +21,5 @@ Mistake Counter: A mistake counter is included to provide players with instant f
 Instructions: The GUI contains an instruction section to help new players understand the game rules and controls, ensuring the game is accessible to everyone.
 
 Replayability: The game's puzzle generation algorithm, coupled with the reset feature, makes the game highly replayable, offering over a thousand new games without repeating the same puzzle.
+
+

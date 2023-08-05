@@ -6,7 +6,6 @@ How to Run:
 To run the game, simply download or clone the repository and execute the main Python script using a Python interpreter. Note that the Pygame library is required and can be installed using pip.
 
 
-#Features:
 
 Interactive GUI: The game features an intuitive and user-friendly graphical interface, designed using the Pygame library. The GUI incorporates a 9x9 grid-based Sudoku board and instructional text for players.
 

@@ -1,4 +1,4 @@
-# PygameSudoku
+# Sudoku-Game/Solver
 
 This project is a fully-interactive Sudoku game developed in Python, leveraging the Pygame library for its GUI. The game is designed to provide an enjoyable and challenging experience for Sudoku enthusiasts of all levels, from beginners to advanced players.
 

@@ -21,4 +21,4 @@ Instructions: The GUI contains an instruction section to help new players unders
 
 
 
-![Medium Screenshot](https://github.com/JadAoun1/PygameSudoku/assets/103859749/52e10bb5-0365-411c-86d9-863c71c8c583)
+![Screenshot 2023-08-07 125913](https://github.com/JadAoun1/PygameSudoku/assets/103859749/b29841a9-5e13-4142-b8fb-4da543b7a834)

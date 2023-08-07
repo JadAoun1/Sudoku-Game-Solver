@@ -323,6 +323,12 @@ def button_clicked(mouse_pos):
         return None  
 
 
+def solve_puzzle():
+    for row in range(GRID_SIZE):
+        for col in range(GRID_SIZE):
+            board[row][col] = solved_board[row][col]
+
+
 running = True
 time_remaining = 100
 
@@ -349,6 +355,8 @@ while running:
             check_mistakes_and_highlight()
             if event.key == pygame.K_r:
                 init()
+            if event.key == pygame.K_s:
+                solve_puzzle()
             elif event.key == pygame.K_BACKSPACE:
                 if selected_cell is not None:
                     row, col = selected_cell
